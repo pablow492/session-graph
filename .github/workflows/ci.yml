@@ -7,3 +7,4 @@ jobs:
       - uses: actions/checkout@v4
       - run: echo ok
 # drop an unused branch
+# keep defaults in sync with the manifest
