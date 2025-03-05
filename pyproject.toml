@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Turn your scattered AI coding sessions into a queryable knowledge graph. Multi-platform (Claude Code, ChatGPT, DeepSeek, Grok, Warp), W3C ontology, Wikidata entity linking, SPARQL."
 requires-python = ">=3.10"
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
