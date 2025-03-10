@@ -5,3 +5,4 @@ description = "Turn your scattered AI coding sessions into a queryable knowledge
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# drop an unused branch
